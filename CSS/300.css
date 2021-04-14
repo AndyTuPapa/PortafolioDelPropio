@@ -73,114 +73,57 @@ audio{
 }
 #IMG1{
     background-image: url(../Media/IMG1.jpg);
-    background-size: cover;
-    background-position: top;
-}
-#IMG1:hover{
-    width: 100%;
-    height: 180vh;
     background-size: contain;
-    background-repeat: no-repeat;
+    background-position: center;
+	background-repeat: no-repeat;
 }
 #IMG2{
     background-image: url(../Media/IMG2.jpg);
-    background-size: cover;
-    background-position: center;
-}
-#IMG2:hover{
-    width: 100%;
-    height: 180vh;
     background-size: contain;
-    background-repeat: no-repeat;
+    background-position: center;
+	background-repeat: no-repeat;
 }
 #IMG3{
-    background-image: url(../Media/IMG3.png);
+    background-image: url(../Media/IMG3.jpg);
     background-size: contain;
     background-position: center;
-    background-repeat: no-repeat;
-}
-#IMG3:hover{
-    width: 100%;
-    height: 180vh;
-    background-size: contain;
     background-repeat: no-repeat;
 }
 #IMG4{
     background-image: url(../Media/IMG4.jpg);
     background-size: cover;
 }
-#IMG4:hover{
-    width: 100%;
-    height: 180vh;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
 #IMG5{
     background-image: url(../Media/IMG5.jpg);
     background-size: cover;
     background-position: top;
-}
-#IMG5:hover{
-    width: 100%;
-    height: 180vh;
-    background-size: contain;
-    background-repeat: no-repeat;
 }
 #IMG6{
     background-image: url(../Media/IMG6.jpg);
     background-size: cover;
     background-position: center;
 }
-#IMG6:hover{
-    width: 100%;
-    height: 180vh;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
 #IMG7{
     background-image: url(../Media/IMG7.jpg);
-    background-size: cover;
-    background-position: center;
-}
-#IMG7:hover{
-    width: 100%;
-    height: 180vh;
     background-size: contain;
-    background-repeat: no-repeat;
+    background-position: center;
+	background-repeat: no-repeat;
 }
 #IMG8{
-    background-image: url(../Media/IMG8.jpg);
+    background-image: url(../Media/IMG8.png);
     background-size: contain;
     background-position: center;
-    background-repeat: no-repeat;
-}
-#IMG8:hover{
-    width: 100%;
-    height: 180vh;
-    background-size: contain;
-    background-repeat: no-repeat;
+	background-repeat: no-repeat;
 }
 #IMG9{
     background-image: url(../Media/IMG9.png);
     background-size: contain;
     background-position: center;
 }
-#IMG9:hover{
-    width: 100%;
-    height: 180vh;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
 #IMG10{
-    background-image: url(../Media/IMG10.png);
+    background-image: url("../Media/IMG10.jpg");
     background-size: cover;
     background-position: center;
-}
-#IMG10:hover{
-    width: 100%;
-    height: 180vh;
-    background-size: contain;
-    background-repeat: no-repeat;
 }
 #A1{
     background-image: url(../Media/A1.jpg);
